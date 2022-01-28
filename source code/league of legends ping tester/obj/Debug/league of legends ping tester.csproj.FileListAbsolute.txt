@@ -1,0 +1,20 @@
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\league of legends ping tester.exe.config
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\league of legends ping tester.exe
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\league of legends ping tester.pdb
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\obj\Debug\league of legends ping tester.csproj.AssemblyReference.cache
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\obj\Debug\league_of_legends_ping_tester.Form1.resources
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\obj\Debug\league_of_legends_ping_tester.Properties.Resources.resources
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\obj\Debug\league of legends ping tester.csproj.GenerateResource.cache
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\obj\Debug\league of legends ping tester.csproj.CoreCompileInputs.cache
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\obj\Debug\league of legends ping tester.exe
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\obj\Debug\league of legends ping tester.pdb
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.dll
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.pdb
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.xml
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\adem0\source\repos\league of legends ping tester\league of legends ping tester\obj\Debug\league of legends ping tester.csproj.CopyComplete
